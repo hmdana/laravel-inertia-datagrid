@@ -22,7 +22,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Hmdana\\LaravelInertiaDataGrid\\": "php"
+            "Hmdana\\LaravelInertiaDataGrid\\": "src"
         }
     },
     "autoload-dev": {
